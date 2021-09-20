@@ -1,0 +1,167 @@
+Puesto,País,Puntuación,Proceso electoraly pluralismo,Funcionamientodel gobierno,Participaciónpolítica,Culturapolítica,Derechosciviles,Categoría
+1,Noruega,9.81,10.00,9.64,10.00,10.00,9.41,Democracia plena
+2, Islandia,9.37,10.00,8.57,8.89,10.00,9.41,Democracia plena
+3,Suecia,9.26,9.58,9.29,8.33,10.00,9.12,Democracia plena
+4, Nueva Zelanda,9.25,10.00,8.93,8.89,8.75,9.71,Democracia plena
+5, Canadá,9.24,9.58,8.93,8.33,9.38,9.41,Democracia plena
+6, Finlandia,9.20,10.00,8.93,8.89,8.75,9.41,Democracia plena
+7, Dinamarca,9.15,10.00,8.93,8.33,9.38,9.12,Democracia plena
+8, Irlanda,9.05,10.00,7.86,8.33,9.38,9.71,Democracia plena
+9, Australia,8.96,10.00,8.57,7.78,8.75,9.71,Democracia plena
+10, Países Bajos,8.96,9.58,9.29,8.33,8.75,8.82,Democracia plena
+11, República de China,8.94,10.00,9.64,7.22,8.13,9.71,Democracia plena
+12, Suiza,8.83,9.58,8.57,7.78,9.38,8.82,Democracia plena
+13, Alemania,8.68,9.58,8.57,8.33,7.50,9.41,Democracia plena
+14, Reino Unido,8.53,9.58,7.50,8.33,8.13,9.12,Democracia plena
+15,Uruguay,8.38,10.00,8.57,6.11,7.50,9.71,Democracia plena
+16, Austria,8.29,9.58,7.86,8.33,6.88,9.12,Democracia plena
+17, Mauricio,8.22,9.17,8.21,5.56,8.75,9.41,Democracia plena
+18, Malta,8.21,9.17,8.21,6.11,8.75,8.82,Democracia plena
+19, España,8.08,9.17,7.14,7.78,7.50,8.82,Democracia plena
+20, Costa Rica,8.07,9.58,7.50,6.67,7.50,9.12,Democracia plena
+21, Corea del Sur,8.00,9.17,7.86,7.22,7.50,8.24,Democracia imperfecta
+22, Japón,7.99,8.75,8.21,6.67,7.50,8.82,Democracia imperfecta
+23, Chile,7.97,9.58,8.57,4.44,8.13,9.12,Democracia imperfecta
+24, Estonia,7.97,9.58,8.21,6.67,6.88,8.53,Democracia imperfecta
+25, Estados Unidos,7.96,9.17,7.14,7.78,7.50,8.24,Democracia imperfecta
+26, Cabo Verde,7.88,9.17,7.86,6.67,6.88,8.82,Democracia imperfecta
+27, Portugal,7.84,9.58,7.50,6.11,6.88,9.12,Democracia imperfecta
+28, Botsuana,7.81,9.17,7.14,6.11,7.50,9.12,Democracia imperfecta
+29, Francia,7.80,9.58,7.50,7.78,5.63,8.53,Democracia imperfecta
+30, Israel,7.79,9.17,7.50,8.89,7.50,5.88,Democracia imperfecta
+31, Bélgica,7.78,8.58,7.93,7.00,7.88,7.53,Democracia imperfecta
+33, Italia,7.71,9.58,6.07,7.78,6.88,8.24,Democracia imperfecta
+34, República Checa,7.69,9.58,6.79,6.67,6.88,8.53,Democracia imperfecta
+35, Chipre,7.59,9.17,6.43,6.67,6.88,8.82,Democracia imperfecta
+36, Eslovenia,7.50,9.58,6.79,6.67,6.25,8.24,Democracia imperfecta
+37, Lituania,7.50,9.58,6.43,6.11,6.25,9.12,Democracia imperfecta
+38, Letonia,7.38,9.58,6.07,5.56,6.88,8.82,Democracia imperfecta
+39, Grecia,7.29,9.58,5.36,6.11,6.88,8.53,Democracia imperfecta
+40, Sudáfrica,7.24,7.42,7.50,8.33,5.00,7.94,Democracia imperfecta
+41, Timor Oriental,7.19,9.08,6.79,5.56,6.88,7.65,Democracia imperfecta
+42, Trinidad y Tobago,7.16,9.58,7.14,6.11,5.63,7.35,Democracia imperfecta
+43,Eslovaquia,7.10,9.58,6.79,5.56,5.63,7.94,Democracia imperfecta
+44,Panamá,7.05,9.58,6.07,6.67,5.00,7.94,Democracia imperfecta
+45, Bulgaria,7.03,9.17,6.43,7.22,4.38,7.94,Democracia imperfecta
+46, Argentina,7.02,9.17,5.36,6.11,6.25,8.24,Democracia imperfecta
+47, Jamaica,7.02,8.75,7.14,4.44,6.25,8.53,Democracia imperfecta
+48, Surinam,6.98,9.17,6.43,6.67,5.00,7.65,Democracia imperfecta
+49, Brasil,6.97,9.58,5.36,6.67,5.00,8.24,Democracia imperfecta
+50, Colombia,6.96,9.17,6.79,5.00,5.63,8.24,Democracia imperfecta
+51, India,6.90,9.17,6.79,7.22,5.63,7.35,Democracia imperfecta
+52, Malasia,6.88,7.75,7.86,6.67,6.25,5.88,Democracia imperfecta
+53, Guyana,6.67,9.17,5.71,6.11,5.00,7.35,Democracia imperfecta
+54, Lesoto,6.64,9.17,5.00,6.67,5.63,6.76,Democracia imperfecta
+55, Filipinas,6.71,9.17,5.71,7.22,4.38,7.06,Democracia imperfecta
+56, Ghana,6.63,8.33,5.71,6.67,6.25,6.18,Democracia imperfecta
+57, Hungría,6.63,8.75,6.07,5.00,6.25,7.06,Democracia imperfecta
+58, Polonia,6.62,9.17,6.07,6.11,4.38,7.65,Democracia imperfecta
+59,Perú,6.60,9.17,5.00,5.56,5.63,7.65,Democracia imperfecta
+60, Croacia,6.57,9.17,6.07,5.56,5.00,7.06,Democracia imperfecta
+61, República Dominicana,6.54,9.17,5.36,6.11,5.00,7.06,Democracia imperfecta
+62, Mongolia,6.50,9.17,5.71,5.56,5.00,7.06,Democracia imperfecta
+63, Indonesia,6.50,7.95,7.15,6.70,5.65,5.60,Democracia imperfecta
+64, Túnez,6.41,6.42,5.71,7.78,6.25,5.88,Democracia imperfecta
+65, Serbia,6.40,8.25,5.36,6.11,5.00,7.35,Democracia imperfecta
+66, Singapur,6.38,4.33,7.86,6.11,6.25,7.35,Democracia imperfecta
+67,Rumania,6.37,9.17,5.71,5.00,4.38,7.65,Democracia imperfecta
+68, Ecuador,6.27,8.75,5.36,6.11,4.38,7.65,Democracia imperfecta
+69, Namibia,6.25,5.67,5.36,6.67,5.63,7.94,Democracia imperfecta
+70,Paraguay,6.24,8.75,5.71,5.00,4.38,7.35,Democracia imperfecta
+71, Sri Lanka,6.19,7.83,5.71,5.00,6.25,6.18,Democracia imperfecta
+72,México,6.19,8.33,6.07,7.22,3.13,6.18,Democracia imperfecta
+73, Hong Kong,6.15,3.08,6.07,5.56,7.50,8.53,Democracia imperfecta
+74, Senegal,6.15,7.50,6.07,4.44,6.25,6.47,Democracia imperfecta
+75, Papúa Nueva Guinea,6.03,6.92,6.07,3.89,5.63,7.65,Democracia imperfecta
+76,Albania,5.98,7.00,4.71,5.56,5.00,7.65,Régimen híbrido
+77, El Salvador,5.96,9.17,4.29,5.56,3.75,7.06,Régimen híbrido
+78, Macedonia del Norte,5.87,6.50,5.36,6.67,3.75,7.06,Régimen híbrido
+79, Moldavia,5.85,7.08,4.64,6.11,4.38,7.06,Régimen híbrido
+80, Fiyi,5.85,6.58,5.36,6.11,5.63,5.59,Régimen híbrido
+81,Montenegro,5.74,6.08,5.36,6.11,4.38,6.76,Régimen híbrido
+82, Benín,5.74,6.50,5.71,5.00,5.63,5.88,Régimen híbrido
+83, Bolivia,5.70,7.50,4.64,5.56,3.75,7.06,Régimen híbrido
+84,Ucrania,5.69,6.17,3.21,6.67,6.25,6.18,Régimen híbrido
+85, Honduras,5.63,8.50,4.64,4.44,4.38,6.18,Régimen híbrido
+86, Zambia,5.61,6.17,4.64,3.89,6.88,6.47,Régimen híbrido
+87, Guatemala,5.60,7.92,5.36,3.89,4.38,6.47,Régimen híbrido
+88, Bangladés,5.57,7.83,5.07,5.56,4.38,5.00,Régimen híbrido
+89, Georgia,5.50,7.83,3.57,6.11,4.38,5.00,Régimen híbrido
+90, Malaui,5.49,6.58,4.29,4.44,6.25,5.88,Régimen híbrido
+91, Tanzania,5.41,7.00,5.00,5.00,5.63,4.41,Régimen híbrido
+92, Malí,5.41,7.42,3.93,3.89,5.63,6.18,Régimen híbrido
+93, Liberia,5.35,7.42,2.57,5.56,5.63,5.59,Régimen híbrido
+94, Bután,5.30,8.75,6.79,2.78,4.38,3.82,Régimen híbrido
+95, Madagascar,5.22,6.08,3.57,6.11,5.63,4.71,Régimen híbrido
+96, Uganda,5.20,5.25,3.57,4.44,6.88,5.88,Régimen híbrido
+97, Nepal,5.18,4.33,5.36,5.00,5.63,5.59,Régimen híbrido
+98, Kenia,5.11,3.50,5.36,6.67,5.63,4.41,Régimen híbrido
+99,Kirguistán,5.11,6.58,2.93,6.67,4.38,5.00,Régimen híbrido
+100, Marruecos,4.99,5.25,4.64,5.00,5.63,4.41,Régimen híbrido
+101, Bosnia y Herzegovina,4.98,6.50,2.93,5.56,3.75,6.18,Régimen híbrido
+102, Haití,4.91,5.58,2.93,3.89,6.25,5.88,Régimen híbrido
+103, Armenia,4.79,5.67,4.64,5.56,2.50,5.59,Régimen híbrido
+104, Burkina Faso,4.75,4.42,4.29,4.44,5.63,5.00,Régimen híbrido
+105, Sierra Leona,4.66,6.58,1.86,3.33,6.25,5.29,Régimen híbrido
+106, Líbano,4.63,3.92,2.21,6.67,5.63,4.71,Régimen híbrido
+107, Tailandia,4.63,3.00,4.29,5.00,5.00,5.88,Régimen híbrido
+108, Nigeria,4.44,6.08,4.64,3.33,3.75,4.41,Régimen híbrido
+109, Palestina,4.39,3.83,2.14,7.78,4.38,3.82,Régimen híbrido
+110, Turquía,4.37,4.50,5.00,5.00,5.00,2.35,Régimen híbrido
+111, Gambia,4.31,4.48,4.29,3.33,5.63,3.82,Régimen híbrido
+112, Pakistán,4.25,6.08,5.36,2.22,2.50,4.71,Régimen híbrido
+113, Costa de Marfil,4.15,4.83,2.86,3.33,5.63,4.12,Régimen híbrido
+114, Irak,4.06,4.75,0.07,6.67,5.00,3.82,Régimen híbrido
+115, Jordania,3.93,3.58,4.29,3.89,4.38,3.53,Régimen autoritario
+116, Mozambique,3.85,3.58,2.14,5.00,5.00,3.53,Régimen autoritario
+117, Kuwait,3.85,3.17,4.29,3.89,4.38,3.53,Régimen autoritario
+118, Birmania,3.83,3.67,3.93,3.89,5.63,2.06,Régimen autoritario
+119, Mauritania,3.82,3.00,3.57,5.00,3.13,4.41,Régimen autoritario
+120, Níger,3.76,5.25,1.14,3.33,4.38,4.71,Régimen autoritario
+121, Comoras,3.71,4.33,2.21,4.44,3.75,3.82,Régimen autoritario
+122, Nicaragua,3.63,2.67,1.86,3.89,5.63,4.12,Régimen autoritario
+123, Angola,3.62,1.75,2.86,5.56,5.00,2.94,Régimen autoritario
+124, Gabón,3.61,2.58,2.21,4.44,5.00,3.82,Régimen autoritario
+125, Camboya,3.59,1.33,5.00,2.78,5.63,3.24,Régimen autoritario
+126, Argelia,3.50,2.58,2.21,3.89,5.00,4.12,Régimen autoritario
+127, Egipto,3.36,3.58,3.21,3.33,3.75,2.94,Régimen autoritario
+128, Etiopía,3.35,0.00,3.57,5.56,5.00,2.65,Régimen autoritario
+129, Ruanda,3.35,1.67,5.00,2.78,4.38,2.94,Régimen autoritario
+130, República del Congo,3.31,3.17,2.50,3.89,3.75,3.24,Régimen autoritario
+131, Camerún,3.28,3.17,2.86,3.33,4.38,2.65,Régimen autoritario
+132, Catar,3.19,0.00,4.29,2.22,5.63,3.82,Régimen autoritario
+133, Zimbabue,3.17,0.50,2.00,4.44,5.63,3.24,Régimen autoritario
+134,Venezuela,3.16,1.67,1.79,4.44,4.38,3.53,Régimen autoritario
+135, Guinea,3.14,3.50,0.43,4.44,4.38,2.94,Régimen autoritario
+136,Bielorrusia,3.13,0.92,2.86,3.89,5.63,2.35,Régimen autoritario
+137, Togo,3.10,3.17,0.79,3.33,5.00,3.24,Régimen autoritario
+138, Vietnam,3.08,0.00,3.21,3.89,5.63,2.65,Régimen autoritario
+139, Omán,3.04,0.00,3.93,2.78,4.38,4.12,Régimen autoritario
+140, Suazilandia,3.03,0.92,2.86,2.22,5.63,3.53,Régimen autoritario
+141, Cuba,3.00,1.08,3.57,3.33,4.38,2.65,Régimen autoritario
+142, Afganistán,2.97,2.92,1.14,4.44,2.50,3.82,Régimen autoritario
+143,Kazajistán,2.94,0.50,2.14,4.44,4.38,3.24,Régimen autoritario
+144,Rusia,2.93,2.17,1.79,5.00,2.50,3.24,Régimen autoritario
+145, Yibuti,2.87,0.42,1.79,3.89,5.63,2.65,Régimen autoritario
+146,Emiratos Árabes Unidos,2.76,0.00,3.93,2.22,5.00,2.65,Régimen autoritario
+147, Baréin,2.71,0.83,3.21,2.78,4.38,2.35,Régimen autoritario
+148, Azerbaiyán,2.65,0.50,2.14,3.33,3.75,3.53,Régimen autoritario
+149, Irán,2.45,0.00,3.21,4.44,3.13,1.47,Régimen autoritario
+150, Eritrea,2.37,0.00,2.14,1.67,6.88,1.18,Régimen autoritario
+151, Burundi,2.33,0.00,0.43,3.89,5.00,2.35,Régimen autoritario
+152, China,2.26,0.00,5.00,3.89,6.25,1.47,Régimen autoritario
+153, Libia,2.19,1.00,0.36,1.67,5.00,2.94,Régimen autoritario
+154, Sudán,2.15,0.00,1.79,2.78,5.00,1.18,Régimen autoritario
+155, Laos,2.14,0.83,2.86,1.67,5.00,1.47,Régimen autoritario
+156, Uzbekistán,2.01,0.08,1.86,2.22,5.00,0.88,Régimen autoritario
+157, Guinea-Bisáu,1.98,1.67,0.00,2.78,3.13,2.35,Régimen autoritario
+158, Yemen,1.97,0.00,0.00,3.89,5.00,0.88,Régimen autoritario
+159, Arabia Saudita,1.96,0.00,2.86,2.22,3.13,1.47,Régimen autoritario
+160, Tayikistán,1.95,0.08,0.79,1.67,6.25,0.88,Régimen autoritario
+161, Guinea Ecuatorial,1.92,0.00,0.43,3.33,4.38,1.47,Régimen autoritario
+162, Turkmenistán,1.72,0.00,0.79,2.22,5.00,0.59,Régimen autoritario
+163, Chad,1.61,0.00,0.00,1.67,3.75,2.65,Régimen autoritario
+164, Siria,1.43,0.00,0.00,2.78,4.38,0.00,Régimen autoritario
+165, República Centroafricana,1.32,1.25,0.00,1.11,1.88,2.35,Régimen autoritario
+166, R. Democrática del Congo,1.13,0.00,0.00,1.67,3.13,0.88,Régimen autoritario
+167, Corea del Norte,1.08,0.00,2.50,1.67,1.25,0.00,Régimen autoritario
