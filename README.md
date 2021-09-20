@@ -1,8 +1,12 @@
 # Practica-1
 
-*PRIMERA PREGUNTA*
+# PRIMERA PREGUNTA
 
-Base de datos, con scraping en función "htmltab", sobre los colegios en Lima que realizarán una modalidad semi presencial.
+Las bases de datos que presentaremos a continuación se establecerán en torno a la educación en Perú: los colegios de Lima Metropolitana que ingresarán a la modalidad semipresencial, todos los colegios de esta región, los índices de educación en Latinoamérica, y los funcionarios encargados de la educación. 
+
+*Primera base de datos*
+
+Nuestra primera base de datos, que denominaremos "colsemipresencial", se extraerá con scraping en función "htmltab". Esta base se refiere a los colegios en Lima Metropolitana que realizarán una modalidad semi presencial. Las variables que contiene, en orden, son las siguientes: nombre del colegio, distrito en el que se encuentra, y a qué gestión pertenece.
 
 ```{r}
 library(htmltab)
@@ -13,7 +17,9 @@ library(rio)
 export(colsemi, "colsemipresencial.csv") 
 ```
 
-La siguiente base de datos, también en función "htmltab", sobre los colegios que existen en Lima Metropolitana. 
+*Segunda base de datos*
+
+La segunda base de datos, denominada "collima", también se extraerá en función "htmltab". Como se precisó, esta contendrá los datos de los colegios que existen en Lima Metropolitana. Sus variables son cuatro: nombre del colegio, año de creación, qué género admite en sus aulas, y el distrito en el que se encuentra.
 
 ```{r}
 link2 = "https://es.wikipedia.org/wiki/Anexo:Colegios_del_Per%C3%BA"
@@ -26,7 +32,9 @@ names(colegios)=c("Colegio", "Año de creación", "Género", "Distrito")
 export(colegios, "collima.csv") 
 ```
 
-La tercera base de datos, igualmente con "html", se refiere a los índices de educación en Latinoamérica. Aquí encontramos 8 variables que, en orden, se refieren a lo siguiente: 1) país latinoamericano; 2) promedio de educación por años; 3) expectativa de educación por años; 4) alfabatización (% mayor a 15 años); 5) primaria completa; 6) secundaria completa; 7) terciaria completa; y 8) terciaria en desarrollo.
+*Tercera base de datos*
+
+La tercera base de datos, igualmente en función "html", se denomina "indlatino". Se refiere a los índices de educación de los países en Latinoamérica y contiene ocho variables. En orden, se refieren a lo siguiente: 1) país latinoamericano; 2) promedio de educación por años; 3) expectativa de educación por años; 4) alfabatización (% mayor a 15 años); 5) primaria completa; 6) secundaria completa; 7) terciaria completa; y 8) terciaria en desarrollo.
 
 ```{r}
 link3 = "https://es.wikipedia.org/wiki/Anexo:Indicadores_de_educaci%C3%B3n_en_Latinoam%C3%A9rica"
@@ -37,7 +45,9 @@ names(indice)=c("pais", "prom_edu", "exp_edu", "alfab", "prim_com", "sec_com", "
 export(indice, "indlatino.csv")
 ```
 
-La última base de datos tendrá la función "rvest", en este caso, sobre los funcionarios del Ministerio de Educación.
+*Cuarta base de datos*
+
+La última base de datos tendrá la función "rvest". En este caso, contiene información sobre los funcionarios del Ministerio de Educación, ente encargado de la educaión en el Perú. Esta base de datos está compuesta por dos variables -nombre y cargo del funcionario- y se denomina "minedu".
 
 ```{r}
 url="https://www.gob.pe/institucion/minedu/funcionarios"
@@ -56,4 +66,4 @@ head(cargo_texto)
 data1 <- data.frame(NOMBRE = nombre_texto, CARGO = cargo_texto)
 
 export(data1, "minedu.csv")
-`
+```
